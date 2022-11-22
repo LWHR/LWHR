@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LWHR
-- 👀 I’m interested in launching a startup
-- 🌱 I’m currently learning Swift, Python, JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on new ideas
 - 📫 How to reach me ...
 
